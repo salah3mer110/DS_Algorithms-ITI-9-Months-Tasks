@@ -39,8 +39,6 @@ public:
 	Node* allocNewNode() {
 		Employee e;
 
-
-
 		//cout << "Enter Name \n";
 		//cin >> e.name;
 		cout << "Enter Key \n";
