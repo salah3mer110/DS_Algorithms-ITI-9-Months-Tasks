@@ -1,6 +1,7 @@
 // Binary Search Iterative.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
+
 #include <iostream>
 using namespace std;
 int binarySearch(int arr[],int n,int target);
